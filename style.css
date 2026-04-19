@@ -191,6 +191,7 @@ h1 {
     text-transform: uppercase;
     font-weight: 900;
     color: #E9ECEF;
+    border-bottom: 2px solid #e9ecef;
 }
 
 .side-links {
