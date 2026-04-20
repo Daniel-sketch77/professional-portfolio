@@ -154,7 +154,7 @@ h1 {
     transition: 0.8s;
     grid-column: 1;
     /* Puts the logo in the first box */
-    margin: 0;
+    margin: 20px 0 0 0;
     font-weight: 900;
     color: #F8F9FA;
     font-size: 40px;
